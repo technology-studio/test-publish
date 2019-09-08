@@ -17,7 +17,7 @@
   "private": false,
   "scripts": {
     "build": "yarn build:clean && yarn build:lib && yarn build:flow",
-    "build:clean": "rimraf lib",
+    "build:clean": "yarn rimraf lib",
     "build:lib": "yarn babel src --out-dir lib --ignore **/__tests__/**",
     "build:flow": "yarn flow-copy-source -v -i '**/__tests__/**' src lib",
     "prepare": "yarn build"
