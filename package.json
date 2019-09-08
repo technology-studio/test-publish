@@ -79,6 +79,5 @@
     "setupFiles": [
       "<rootDir>/__tests__/Setup"
     ]
-  },
-  "version": "0.0.1"
+  }
 }
