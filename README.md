@@ -1,3 +1,5 @@
-# Test publish #
+![npm](https://img.shields.io/npm/v/@txo/config-manager)
+![codecov](https://img.shields.io/codecov/c/github/technology-studio/config-manager)
+# Config manager #
 
-Testing package for transpiling and publishing txo flow based packages
+Config manager
