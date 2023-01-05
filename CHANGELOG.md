@@ -1,3 +1,20 @@
+## [2.0.0-beta.1](https://github.com/technology-studio/test-publish/compare/v1.1.0...v2.0.0-beta.1) (2023-01-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* some major change
+
+### Features
+
+* some major change ([5742496](https://github.com/technology-studio/test-publish/commit/5742496e9d3faf2f6d09f8d32e56a44abcfa3c29))
+
+
+### CI
+
+* add prelease branches to release workflow ([b87bb02](https://github.com/technology-studio/test-publish/commit/b87bb02bb899a51fdc913b5584388618e6136284))
+* ping ([64a221b](https://github.com/technology-studio/test-publish/commit/64a221bc29d20694d10565d795866d624dfba31b))
+
 ## [1.1.0](https://github.com/technology-studio/test-publish/compare/v1.0.5...v1.1.0) (2023-01-05)
 
 
