@@ -6,7 +6,7 @@
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/technology-studio/config-manager.git"
+    "url": "https://github.com/technology-studio/test-publish.git"
   },
   "author": {
     "name": "Technology Studio",
