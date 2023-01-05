@@ -3,7 +3,7 @@
  * @Date: 2022-08-21T13:08:66+02:00
  * @Copyright: Technology Studio
 **/
-
+console.log('PROCESS_ENV: ', process.env)
 module.exports = {
   branches: [
     '+([0-9])?(.{+([0-9]),x}).x',
