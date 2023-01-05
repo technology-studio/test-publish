@@ -1,3 +1,16 @@
+## [1.1.1](https://github.com/technology-studio/test-publish/compare/v1.1.0...v1.1.1) (2023-01-05)
+
+
+### Bug fixes
+
+* some patch change ([c4f57d2](https://github.com/technology-studio/test-publish/commit/c4f57d22b7376ef350bcc0ee435440a69fe35577))
+
+
+### CI
+
+* add prelease branches to release workflow ([b87bb02](https://github.com/technology-studio/test-publish/commit/b87bb02bb899a51fdc913b5584388618e6136284))
+* ping ([ba1ac58](https://github.com/technology-studio/test-publish/commit/ba1ac58e94bba03d68f59d4e91aff1660ebb4e95))
+
 ## [1.1.0](https://github.com/technology-studio/test-publish/compare/v1.0.5...v1.1.0) (2023-01-05)
 
 
