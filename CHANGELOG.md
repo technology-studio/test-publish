@@ -1,3 +1,16 @@
+## [1.1.0](https://github.com/technology-studio/test-publish/compare/v1.0.5...v1.1.0) (2023-01-05)
+
+
+### Features
+
+* reflect recent package structure ([eb4a313](https://github.com/technology-studio/test-publish/commit/eb4a3132e20111f706c6b2d9a495d5e6c8e6d465))
+
+
+### CI
+
+* fix repo url in package.json ([36ee357](https://github.com/technology-studio/test-publish/commit/36ee35718177134ea381975384b6bbac16b442bd))
+* support prereleases ([2b74388](https://github.com/technology-studio/test-publish/commit/2b743888327789257f0ba74792f412d32d7ac2bb))
+
 ## [3.1.0](https://github.com/technology-studio/config-manager/compare/v3.0.1...v3.1.0) (2022-08-31)
 
 
