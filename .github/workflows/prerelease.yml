@@ -1,8 +1,11 @@
-name: Release
+name: Prelease
 on:
   push:
     branches:
-      - main
+      - next
+      - next-major
+      - alpha
+      - beta
 
 jobs:
   release:
