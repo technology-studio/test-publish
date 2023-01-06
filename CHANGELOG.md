@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/technology-studio/test-publish/compare/v1.4.0...v1.5.0) (2023-01-06)
+
+
+### Features
+
+* test changes 3 ([560a4fe](https://github.com/technology-studio/test-publish/commit/560a4feefbec7ea4b3b5684899613b1e76501067))
+
 ## [1.3.0](https://github.com/technology-studio/test-publish/compare/v1.2.0...v1.3.0) (2023-01-06)
 
 
