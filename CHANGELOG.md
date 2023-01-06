@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/technology-studio/test-publish/compare/v1.1.1...v1.2.0) (2023-01-06)
+
+
+### Features
+
+* prepare release ([c3f167b](https://github.com/technology-studio/test-publish/commit/c3f167b620365698795e93eb446579873c8a6de3))
+
 ## [1.1.1](https://github.com/technology-studio/test-publish/compare/v1.1.0...v1.1.1) (2023-01-05)
 
 
