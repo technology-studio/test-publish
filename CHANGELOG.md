@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/technology-studio/test-publish/compare/v1.5.0...v1.5.1) (2024-01-05)
+
+
+### Bug fixes
+
+* update package.json ([#298](https://github.com/technology-studio/test-publish/issues/298)) ([857d998](https://github.com/technology-studio/test-publish/commit/857d9980e1e53ab245abd61c90da5038e09d58f1))
+
 ## [1.5.0](https://github.com/technology-studio/test-publish/compare/v1.4.0...v1.5.0) (2023-01-06)
 
 
