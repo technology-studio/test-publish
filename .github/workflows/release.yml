@@ -7,9 +7,11 @@ on:
       - next-major
       - alpha
       - beta
+permissions:
+  id-token: write
 
 jobs:
   release:
     name: '/'
-    uses: technology-studio/github-workflows/.github/workflows/_release.yml@main
+    uses: technology-studio/github-workflows/.github/workflows/_release.yml@esl/codecov-oidc-with-permission
     secrets: inherit
