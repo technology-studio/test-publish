@@ -54,6 +54,6 @@
     "typescript": "^5.7.3"
   },
   "resolutions": {
-    "eslint-config-txo-typescript": "erik-slovak/temp-eslint-config-txo-typescript#main"
+    "eslint-config-txo-typescript": "technology-studio/eslint-config-txo-typescript#esl/validate-eslint-run"
   }
 }
