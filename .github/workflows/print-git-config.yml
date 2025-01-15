@@ -11,6 +11,8 @@ jobs:
     name: "Print git config"
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        use: actions/checkout@v4
       - name: "Print git config"
         run: |
           git config --list
