@@ -2944,10 +2944,9 @@ eslint-config-txo-package-typescript@^1.0.26:
   dependencies:
     eslint-config-txo-typescript "^7.3.22"
 
-eslint-config-txo-typescript@^7.3.22:
+eslint-config-txo-typescript@^7.3.22, eslint-config-txo-typescript@erik-slovak/temp-eslint-config-txo-typescript#main:
   version "7.3.22"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.3.22.tgz#34559f4678ba1d36552dd3d4dc7b2154b654335b"
-  integrity sha512-y0E8xeFK2C+pvfEWFcmUlh8SZuqJRGYl+9KZZ+/6LS5dTU8TfTTaz5mdsF8GQ5Thv4nDfXjgQSXhPjpszZvwow==
+  resolved "https://codeload.github.com/erik-slovak/temp-eslint-config-txo-typescript/tar.gz/2910781fa54f6cafe43b1535c08a104139d21be9"
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.4.1"
     "@stylistic/eslint-plugin" "^2.13.0"
