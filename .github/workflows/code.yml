@@ -11,7 +11,7 @@ on:
 jobs:
   code-quality:
     name: "Code quality"
-    uses: technology-studio/github-workflows/.github/workflows/_code-quality.yml@esl/skip-eslint-on-renovate
+    uses: technology-studio/github-workflows/.github/workflows/_code-quality.yml@main
     secrets: inherit
   type-check:
     name: "Type check"
