@@ -1,4 +1,3 @@
 [
-  "@typescript-eslint/no-magic-numbers",
-  "@stylistic/semi"
+  "@typescript-eslint/no-magic-numbers"
 ]
