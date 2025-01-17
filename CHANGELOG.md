@@ -1,3 +1,23 @@
+## [1.5.2](https://github.com/technology-studio/test-publish/compare/v1.5.1...v1.5.2) (2025-01-17)
+
+
+### CI
+
+* add lint command for CI ([#409](https://github.com/technology-studio/test-publish/issues/409)) ([8b16a03](https://github.com/technology-studio/test-publish/commit/8b16a03a44d06e8ecffa07c1ac6c1fe7dddfcc6a))
+* add permission for release ([#432](https://github.com/technology-studio/test-publish/issues/432)) ([55b5643](https://github.com/technology-studio/test-publish/commit/55b56433f98925257a1934dd88aec195f8ef5af7))
+* add synchronize to PR workflow ([#436](https://github.com/technology-studio/test-publish/issues/436)) ([4b607ca](https://github.com/technology-studio/test-publish/commit/4b607ca2177bea55701b55aa5236a8dcf70dfa28))
+* rename workflows ([#417](https://github.com/technology-studio/test-publish/issues/417)) ([8370c76](https://github.com/technology-studio/test-publish/commit/8370c76ae3b23f9c4255dddfdf2c0f6d4e7e813c))
+* trigger ([#475](https://github.com/technology-studio/test-publish/issues/475)) ([2186fa4](https://github.com/technology-studio/test-publish/commit/2186fa4a7726c3297055aac1648fd3dc2b19c18f))
+* trigger (update dependency eslint-config-txo) ([#476](https://github.com/technology-studio/test-publish/issues/476)) ([61c9161](https://github.com/technology-studio/test-publish/commit/61c9161fcee194b21898ccc8b46fe2043c7b38f7))
+* update dependency eslint-config-txo ([#474](https://github.com/technology-studio/test-publish/issues/474)) ([f0e5db8](https://github.com/technology-studio/test-publish/commit/f0e5db8c8828d639361ba60853dc8bac17dc6bdd))
+* update pr and release workflows ([#433](https://github.com/technology-studio/test-publish/issues/433)) ([e340da1](https://github.com/technology-studio/test-publish/commit/e340da1c4bc90a879d5c19a627e103e16f57f172))
+* update URL for code-quality ([#414](https://github.com/technology-studio/test-publish/issues/414)) ([5ceb128](https://github.com/technology-studio/test-publish/commit/5ceb12829c60e91a827d0e323c731e7e7ec1dd9f))
+
+
+### Bug fixes
+
+* test commit to trigger release (update dependency eslint-config-txo) ([#483](https://github.com/technology-studio/test-publish/issues/483)) ([add911a](https://github.com/technology-studio/test-publish/commit/add911af600065f0bd1f57a7d5daccb329a792fd))
+
 ## [1.5.1](https://github.com/technology-studio/test-publish/compare/v1.5.0...v1.5.1) (2024-01-05)
 
 
