@@ -2937,14 +2937,14 @@ eslint-config-love@^116.0.0:
     eslint-plugin-promise "^7.0.0"
     typescript-eslint "^8.15.0"
 
-eslint-config-txo-package-typescript@^1.0.79:
-  version "1.0.79"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-package-typescript/-/eslint-config-txo-package-typescript-1.0.79.tgz#b8b22330d7f8ccc0bd283e6638117b8ad0afd451"
-  integrity sha512-POtdQKRSmIm3qS4IVdhAj0IIdSo0L0Ilcx7brY3XehTSiyCDefl08J3/OR7AYnG3Qrxak5wLKqRD1YIUASbNTg==
+eslint-config-txo-package-typescript@^1.0.80:
+  version "1.0.80"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-package-typescript/-/eslint-config-txo-package-typescript-1.0.80.tgz#58781f4b41c85fa5a63db6e6ac4ea97e65879716"
+  integrity sha512-SzPfIw+0LIjyOQHB2WspqGEYdELHwxIK6aiTBOQo9xOSLJcoNtyPg//fZ+/a5jkjxfotPShl3jN0Oe/WTeOY0g==
   dependencies:
-    eslint-config-txo-typescript "^7.4.67"
+    eslint-config-txo-typescript "^7.4.68"
 
-eslint-config-txo-typescript@^7.4.67, eslint-config-txo-typescript@erik-slovak/temp-eslint-config-txo-typescript#main:
+eslint-config-txo-typescript@^7.4.68, eslint-config-txo-typescript@erik-slovak/temp-eslint-config-txo-typescript#main:
   version "7.3.22"
   resolved "https://codeload.github.com/erik-slovak/temp-eslint-config-txo-typescript/tar.gz/2910781fa54f6cafe43b1535c08a104139d21be9"
   dependencies:
