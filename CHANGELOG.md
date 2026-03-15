@@ -1,3 +1,14 @@
+## [1.5.3](https://github.com/technology-studio/test-publish/compare/v1.5.2...v1.5.3) (2026-03-15)
+
+### CI
+
+* add pr.yml permissions ([#661](https://github.com/technology-studio/test-publish/issues/661)) ([274c2f9](https://github.com/technology-studio/test-publish/commit/274c2f99af01edf6cea527d9d2fa40589fd10c79))
+* fix branch of release.yml ([#582](https://github.com/technology-studio/test-publish/issues/582)) ([0c3095a](https://github.com/technology-studio/test-publish/commit/0c3095ad3b8b460c3be004073c5de5751b99defd))
+
+### Bug fixes
+
+* add OIDC permissions for npm trusted publishing ([#703](https://github.com/technology-studio/test-publish/issues/703)) ([82028e9](https://github.com/technology-studio/test-publish/commit/82028e9e44b9a254813b23440deade0b2b816d09))
+
 ## [1.5.2](https://github.com/technology-studio/test-publish/compare/v1.5.1...v1.5.2) (2025-01-17)
 
 
