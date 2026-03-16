@@ -1,4 +1,4 @@
-name: "Test"
+name: 'Test'
 
 on:
   pull_request:
@@ -10,6 +10,6 @@ on:
 
 jobs:
   unit:
-    name: "Unit test"
-    uses: technology-studio/github-workflows/.github/workflows/_unit-test.yml@temp/fix-cache-keys-branch
+    name: 'Unit test'
+    uses: technology-studio/github-workflows/.github/workflows/_unit-test.yml@main
     secrets: inherit
