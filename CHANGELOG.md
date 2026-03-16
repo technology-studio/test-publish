@@ -1,3 +1,9 @@
+## [1.5.4](https://github.com/technology-studio/test-publish/compare/v1.5.3...v1.5.4) (2026-03-16)
+
+### Bug fixes
+
+* update workflow references to temp/fix-cache-keys-branch ([#706](https://github.com/technology-studio/test-publish/issues/706)) ([3859a1f](https://github.com/technology-studio/test-publish/commit/3859a1f4f68f6c5365c3b92c92a1dad1c3b99112))
+
 ## [1.5.3](https://github.com/technology-studio/test-publish/compare/v1.5.2...v1.5.3) (2026-03-15)
 
 ### CI
