@@ -1,4 +1,4 @@
-name: "PR"
+name: 'PR'
 
 on:
   pull_request_target:
@@ -12,6 +12,6 @@ permissions:
 
 jobs:
   semantic-title:
-    name: "Semantic title"
-    uses: technology-studio/github-workflows/.github/workflows/_semantic-title.yml@temp/fix-cache-keys-branch
+    name: 'Semantic title'
+    uses: technology-studio/github-workflows/.github/workflows/_semantic-title.yml@main
     secrets: inherit
