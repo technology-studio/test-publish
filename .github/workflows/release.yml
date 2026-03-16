@@ -11,5 +11,5 @@ permissions:
 jobs:
   release:
     name: 'Release'
-    uses: technology-studio/github-workflows/.github/workflows/_release.yml@main
+    uses: technology-studio/github-workflows/.github/workflows/_release.yml@temp/fix-cache-keys-branch
     secrets: inherit
