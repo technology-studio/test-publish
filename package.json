@@ -45,7 +45,7 @@
     "@types/jest": "^30.0.0",
     "@types/node": "^24.13.3",
     "concurrently": "^9.2.4",
-    "eslint-config-txo-package-typescript": "^1.0.120",
+    "eslint-config-txo-package-typescript": "^1.0.121",
     "husky": "^9.1.7",
     "jest": "^30.4.2",
     "lint-staged": "^16.4.0",
